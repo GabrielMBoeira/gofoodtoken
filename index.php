@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>GoFood Token</title>
+  <title>Yeshua</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/cifrão-favicon.png" rel="icon">
+  <link href="assets/img/tesoura-aba.png" rel="icon">
   <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
@@ -40,7 +40,7 @@
 
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-telephone d-flex align-items-center"><span class="telFone">+55 9999 99 99</span></i>
-        <i class="bi bi-clock d-flex align-items-center ms-4"><span class="preVenda">Pré-venda: 01/01/2022 - 08/01/2022</span></i>
+        <i class="bi bi-clock d-flex align-items-center ms-4"><span class="preVenda">Aberto dias: 01/01/2022 - 08/01/2022</span></i>
       </div>
 
       <div class="languages d-none d-md-flex align-items-center">
@@ -58,7 +58,7 @@
   <header id="header" class="fixed-top d-flex align-items-cente">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.php">GoFood Token</a></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="index.php">Yeshua</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -87,18 +87,18 @@
         <div class="col-lg-8">
           <h1>
             <!-- Bem vindo(s)  -->
-            <span>GoFood Token</span>
+            <span>Yeshua</span>
           </h1>
-          <h2>Um novo conceito de investimento!</h2>
+          <h2>Um novo conceito de estilo!</h2>
 
           <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Ofertas</a>
-            <a href="#" class="btn-book animated fadeInUp scrollto">Investir no projeto</a>
+            <a href="#" class="btn-book animated fadeInUp scrollto">Agenda</a>
           </div>
         </div>
         <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in"
           data-aos-delay="200">
-          <a href="https://www.youtube.com/watch?v=tZertPBVmPQ" class="glightbox play-btn"></a>
+          <a href="https://www.youtube.com/watch?v=0nQG8NCB-nU" class="glightbox play-btn"></a>
         </div>
 
       </div>
@@ -114,7 +114,7 @@
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
             <div class="about-img">
-              <img src="assets/img/TradingStrategies1280.jpg" alt="">
+              <img src="assets/img/foto1.jpg" alt="">
             </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
@@ -190,7 +190,7 @@
 
         <div class="section-title">
           <h2>Ofertas</h2>
-          <p>Pacotes Pré-venda</p>
+          <p>Pacotes e fidelidade</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -300,7 +300,7 @@
                       nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/news1.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/ft1.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -315,7 +315,7 @@
                       beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/news2.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/ft2.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -330,7 +330,7 @@
                       odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/news3.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/ft3.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -345,7 +345,7 @@
                       sed qui veritatis aperiam quia a laborum inventore</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/news4.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/ft4.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -359,7 +359,7 @@
                       molestiae voluptate vel</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/news5.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/ft5.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -385,7 +385,7 @@
             <div class="swiper-slide">
               <div class="row event-item">
                 <div class="col-lg-6">
-                  <img src="assets/img/evt1.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/ph1.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                   <h3>Lorem ipsum</h3>
@@ -416,7 +416,7 @@
             <div class="swiper-slide">
               <div class="row event-item">
                 <div class="col-lg-6">
-                  <img src="assets/img/evt2.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/ph2.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                   <h3>Tristique dictumst primis</h3>
@@ -447,7 +447,7 @@
             <div class="swiper-slide">
               <div class="row event-item">
                 <div class="col-lg-6">
-                  <img src="assets/img/evt3.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/ph3.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                   <h3>Malesuada sollicitudin lacinia</h3>
@@ -556,7 +556,7 @@
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Antonio da Silva</h3>
-                <h4>Investidor</h4>
+                <h4>Fulano</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -570,7 +570,7 @@
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Maria</h3>
-                <h4>Gerente de operações</h4>
+                <h4>Fulano</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -584,7 +584,7 @@
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                 <h3>Ana Clara</h3>
-                <h4>Arquiteta de soluções</h4>
+                <h4>Fulano</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -598,7 +598,7 @@
                 </p>
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                 <h3>Claudio Bernardt</h3>
-                <h4>Investidor</h4>
+                <h4>Fulano</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -612,7 +612,7 @@
                 </p>
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                 <h3>João Francisco</h3>
-                <h4>CEO Tranding</h4>
+                <h4>Fulano</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -795,7 +795,7 @@
       <div data-aos="fade-up">
         <div class="mapouter">
           <div class="gmap_canvas"><iframe width="100%" height="350" id="gmap_canvas"
-              src="https://maps.google.com/maps?q=Itapeva&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0"
+              src="https://maps.google.com/maps?q=Biguacu&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0"
               scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br>
             <style>
               .mapouter {
@@ -828,7 +828,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Localização:</h4>
-                <p>Rua Paranapanema, Itapeva - Centro, SP</p>
+                <p>Rua Manuel Justino de simas, Biguaçu - Fundos, SC</p>
               </div>
 
               <!-- <div class="open-hours">
@@ -843,7 +843,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@gofoodtoken.com</p>
+                <p>info@yeshua.com</p>
               </div>
 
               <div class="phone">
@@ -952,14 +952,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>GoFood Token</span></strong>. Todos os direitos reservados
+        &copy; Copyright <strong><span>Yeshua</span></strong>. Todos os direitos reservados
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Desenvolvido por <a href="#">GoFood Token</a>
+        Desenvolvido por <a href="#">Yeshua</a>
       </div>
     </div>
   </footer><!-- End Footer -->
